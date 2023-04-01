@@ -36,7 +36,7 @@
     }
 
     .sub1 {
-	color: black;
+	color: white;
         float: right;
         width: 100px;
         padding: 5px;
@@ -45,7 +45,7 @@
         text-align: center;
         font-size: 125%;
         font-weight: bold;
-        background-color: white;
+        background-color: black;
 
     }
 
@@ -64,7 +64,7 @@
     }
 
     .sub3 {
-        color: black;
+        color: white;
         float: right;
         width: 100px;
         padding: 5px;
@@ -73,7 +73,7 @@
         text-align: center;
         font-size: 125%;
         font-weight: bold;
-        background-color: white;
+        background-color: black;
 
     }
 
